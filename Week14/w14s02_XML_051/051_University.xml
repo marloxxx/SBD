@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="051_university.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<university>
+    <department>
+        <dept_name> Marketing </dept_name>
+        <budget> 100000 </budget>
+    </department>
+    <department>
+        <dept_name> Informatics</dept_name>
+        <budget> 200000 </budget>
+    </department>
+</university>

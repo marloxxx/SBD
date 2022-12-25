@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="student.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<studentlist>
+    <student id="1">
+        <name>Joe</name>
+        <street>SM Raja</street>
+        <city>Medan</city>
+    </student>
+    <student id="2">
+        <name>Ciko</name>
+        <street>Siliwangi</street>
+        <city>Toba</city>
+    </student>
+</studentlist>
